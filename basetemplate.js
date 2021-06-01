@@ -28,7 +28,7 @@ const generateHtml = (answers) =>
           <div class="card text-white" style="background-color: #4a4a4a;">
             <div class="card-body">
               <h5 class="card-title">${answers.name}</h5>
-              <p class="card-text">${answers.title}</p>
+              <p class="card-text">${answers.role}</p>
               <p>${answers.id}</p>
               <p>${answers.email}</p>
               <p>${answers.office}</p>
