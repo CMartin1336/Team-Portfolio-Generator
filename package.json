@@ -1,0 +1,27 @@
+{
+  "name": "team-portfolio-generator",
+  "version": "1.0.0",
+  "description": "Node application that builds a team portfolio",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CMartin1336/Team-Portfolio-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CMartin1336/Team-Portfolio-Generator/issues"
+  },
+  "homepage": "https://github.com/CMartin1336/Team-Portfolio-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.0",
+    "jest": "^27.0.4"
+  }
+}
